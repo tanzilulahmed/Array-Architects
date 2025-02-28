@@ -1,6 +1,4 @@
-/* ===( Build By : CODE AASHU )=== */
-/*! WOW - v1.1.2 - 2015-04-07
- * Copyright (c) 2015 Matthieu Aussaguel; Licensed MIT */ (function () {
+ (function () {
   var a,
     b,
     c,
@@ -431,4 +429,3 @@
       );
     })());
 }).call(this);
-/* ===( Build By : CODE AASHU )=== */
